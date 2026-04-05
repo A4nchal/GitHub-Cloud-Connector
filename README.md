@@ -1,10 +1,10 @@
-# GitHub Cloud Connector
+# 🚀 GitHub Cloud Connector
 
 A backend service built using **FastAPI** that integrates with the **GitHub REST API** to perform core actions like fetching repositories, listing issues, and creating issues.
 
 ---
 
-## Objective
+## 📌 Objective
 
 This project demonstrates:
 
